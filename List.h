@@ -1,7 +1,3 @@
-//
-// Created by vadim on 11.11.2022.
-//
-
 #ifndef OOP_STACKANDQUEUE_LIST_H
 #define OOP_STACKANDQUEUE_LIST_H
 
